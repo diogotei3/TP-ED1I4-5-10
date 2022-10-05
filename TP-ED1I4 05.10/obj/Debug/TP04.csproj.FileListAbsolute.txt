@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP4-ED1I4-main\TP04\bin\Debug\TrabED15-12.exe.config
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP4-ED1I4-main\TP04\obj\Debug\TrabED15-12.exe
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP4-ED1I4-main\TP04\obj\Debug\TrabED15-12.pdb
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP4-ED1I4-main\TP04\bin\Debug\TrabED15-12.exe
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP4-ED1I4-main\TP04\bin\Debug\TrabED15-12.pdb
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP4-ED1I4-main\TP04\obj\Debug\TP04.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP-ED1I4 05.10\TP04\bin\Debug\TrabED15-12.exe.config
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP-ED1I4 05.10\TP04\obj\Debug\TrabED15-12.exe
+C:\Users\User\Documents\Lição Diogo\4° SEM\Estrutura de dados 2\TP-ED1I4 05.10\TP04\obj\Debug\TrabED15-12.pdb
